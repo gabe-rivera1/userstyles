@@ -1,4 +1,14 @@
-/**Styles used to improve the readability of docs.oracle.com */
+/* ==UserStyle==
+@name         docs.oracle.com readability improvements
+@namespace    docs.oracle.com
+@description  Improve the readability of docs.oracle.com 
+@author       gabe-rivera1 <gabe-rivera1@outlook.com> (https://github.com/gabe-rivera1/userstyles)
+@homepageURL  https://github.com/gabe-rivera1/userstyles
+@supportURL   https://github.com/gabe-rivera1/userstyles
+@preprocessor none
+@version      0.1
+@license      MIT
+==/UserStyle== */
 
 html {font-family:sans-serif;}
 article{
@@ -52,3 +62,4 @@ font-family: Arial;
 .oj-navigationlist-focused-element.oj-navigationlist-item-content.oj-navigationlist-item-no-icon, td {
   font-family: monospace;
 }
+
