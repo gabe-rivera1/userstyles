@@ -1,14 +1,15 @@
 /* ==UserStyle==
 @name         docs.oracle.com readability improvements
-@namespace    docs.oracle.com
+@namespace    userstyles.world/user/gabe-rivera1
 @description  Improve the readability of docs.oracle.com 
 @author       gabe-rivera1 <gabe-rivera1@outlook.com> (https://github.com/gabe-rivera1/userstyles)
-@homepageURL  https://github.com/gabe-rivera1/userstyles
-@supportURL   https://github.com/gabe-rivera1/userstyles
 @preprocessor none
 @version      0.1
 @license      MIT
 ==/UserStyle== */
+
+
+@-moz-document domain("docs.oracle.com") {
 
 html {font-family:sans-serif;}
 article{
@@ -63,3 +64,4 @@ font-family: Arial;
   font-family: monospace;
 }
 
+}
