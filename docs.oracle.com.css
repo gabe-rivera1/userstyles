@@ -1,0 +1,54 @@
+/**Styles used to improve the readability of docs.oracle.com */
+
+html {font-family:sans-serif;}
+article{
+    font-family: Arial
+}
+article.ohc-grid-type p {
+    font-family: Arial;
+    font-size: .84rem;
+    line-height: 1.51rem;
+    color: #000;
+}
+article h1{
+  font-size: 2.0rem;
+}   
+article h2{
+  font-size: 1.5rem;
+
+  padding-top: 1.5rem;
+  padding-bottom: 0;
+  border-bottom: 1px solid #ccc;
+}    
+
+.oj-treeview-select-single .oj-typography-body-sm {
+  font-size: 14px !important;
+  line-height: 14px !important;
+}
+
+.toc-heading {
+ color: #000 !important;
+font-family: Arial;
+    border-bottom: 1px solid #ccc;
+    margin: 0;
+}
+
+.oj-bg-neutral-10 {
+    background-color: #fff !important;
+}
+.navigation-side-bar {
+    background-color: #f5f5f5 important;
+    border-right: 1px solid #ccc;
+}
+#auxiliaryTools{
+  border-left: 1px solid #ccc;
+}
+
+.oj-treeview-select-single .oj-treeview-item-content {
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+.oj-navigationlist-focused-element.oj-navigationlist-item-content.oj-navigationlist-item-no-icon, td {
+  font-family: monospace;
+}
